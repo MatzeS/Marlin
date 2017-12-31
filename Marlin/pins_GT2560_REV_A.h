@@ -108,8 +108,8 @@
       #define LCD_PINS_D5  21
       #define LCD_PINS_D6   5
       #define LCD_PINS_D7   6
-      #define BTN_EN1      42
-      #define BTN_EN2      40
+      #define BTN_EN1      40
+      #define BTN_EN2      42
     #endif
 
     #define BTN_ENC        19
